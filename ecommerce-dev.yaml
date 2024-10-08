@@ -1,0 +1,6 @@
+token:
+  expiration_time: 864000000
+  secret: dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token dev_token
+
+gateway:
+  ip: 192.168.2.19

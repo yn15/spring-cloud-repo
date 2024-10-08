@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: changed my_tokenmy_tokenmy_tokenmy_tokenmy_tokenmy_tokenmy_tokenmy_tokenmy_tokenmy_tokenmy_tokenmy_tokenmy_tokenmy_tokenmy_tokenmy_tokenmy_token
+  secret: default_token default_token default_token default_token default_token default_token default_token default_token default_token default_token default_token default_token default_token default_token default_token default_token
 
 gateway:
   ip: 192.168.2.19

@@ -1,0 +1,6 @@
+token:
+  expiration_time: 864000000
+  secret: prod_token prod_token prod_token prod_token prod_token prod_token prod_token prod_token prod_token prod_token prod_token prod_token prod_token prod_token prod_token prod_token prod_token prod_token prod_token prod_token prod_token
+
+gateway:
+  ip: 192.168.2.19
